@@ -11,6 +11,7 @@ public class BrigittesTest {
         System.out.println("Collaborate below!!");
         System.out.println("Once upon a time there was a frog. This frog wanted nothing more in life then to learn how to code.");
         System.out.println("So the frog spent every day and every night working to learn how to code.");
+        system.out.println("The Frog had many friends, his best friend's name was Bob!"); 
         System.out.println("The frog learned to code by studying hard.");
         System.out.println("DrK is so proud of everyone!");
     }
